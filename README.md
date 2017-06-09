@@ -29,5 +29,9 @@ NIS : 4749/1466.070
 </p>
 <h3> SS </h3>
 
-![1](https://cloud.githubusercontent.com/assets/22139208/26135470/dd7c1f92-3adf-11e7-8730-b005aaa9b309.JPG)
-![2](https://cloud.githubusercontent.com/assets/22139208/26135471/dd80440a-3adf-11e7-85f3-d24d0ca87b75.JPG)
+![screenshot_2017-06-09-10-12-43](https://user-images.githubusercontent.com/22139208/26960065-ade8ea04-4cfe-11e7-8cfa-6ff4a09d6aef.png)
+![screenshot_2017-06-09-10-12-51](https://user-images.githubusercontent.com/22139208/26960067-ae1d42ea-4cfe-11e7-8f05-cfbc99983bba.png)
+![screenshot_2017-06-09-10-12-56](https://user-images.githubusercontent.com/22139208/26960063-ade3d8ca-4cfe-11e7-92c3-feaa7b18a25d.png)
+![screenshot_2017-06-09-10-12-59](https://user-images.githubusercontent.com/22139208/26960068-af176306-4cfe-11e7-8781-9d49531c24fc.png)
+![screenshot_2017-06-09-10-13-03](https://user-images.githubusercontent.com/22139208/26960066-ae098110-4cfe-11e7-8d5a-34c24fb7c054.png)
+
