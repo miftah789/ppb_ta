@@ -2,7 +2,7 @@
 
 <p> 
 NAama Aplikasi : PPB_TA<br>
-link APK : https://drive.google.com/drive/folders/0B8XMCUSgihwuM0hDWUpIZ0dKSVU?usp=sharing <br>
+link APK : https://drive.google.com/open?id=0B8XMCUSgihwua0dOYnA5cjZPVjQ <br>
 <br>
 Nama : Miftahul Jannah <br>
 Kelas : XI RPL 6<br>
