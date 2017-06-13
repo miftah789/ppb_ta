@@ -17,7 +17,7 @@ Deskripsi singkat dari aplikasi : aplikasi ini untuk memberi tahukan daftar-daft
 Kelebihan dari Aplikasi menurut kalian <br>
 - kelebihan : mudah digunakan, terdapat gambar <br>
 - kelemahan : tidak terdapat descripsi film <br>
-Library lain yang digunakan (jika ada, opsional) : glade, volley <br>
+Library lain yang digunakan (jika ada, opsional) : sugarORM <br>
 </p>
 
 <p>
